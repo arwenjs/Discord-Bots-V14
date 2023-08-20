@@ -285,13 +285,13 @@ if (!message.member.permissions.has(PermissionsBitField.Flags.Administrator) && 
           .setPlaceholder('Menüden sıralama kategorisi seçimi yapın!')
           .addOptions([
             { label: 'Sunucunun En İyileri', description: 'Sunucudaki en iyileri görmek için tıklayınız.', value: 'eniyi', emoji: '🏆' },
-            { label: 'Mesaj Sıralaması', description: 'Sunucudaki mesaj sıralamasını görmek için tıklayınız.', value: 'mesaj', emoji: '1089491370982522950' },
-            { label: 'Ses Sıralaması',   description: 'Sunucudaki ses sıralamasını görmek için tıklayınız.', value: 'ses', emoji: '1089491399067566141' },
-            { label: 'Yayın Sıralaması', description: 'Sunucudaki yayın sıralamasını görmek için tıklayınız.', value: 'yayin', emoji: '1135761093701144577'},
-            { label: 'Kamera Sıralaması', description:'Sunucudaki kamera sıralamasını görmek için tıklayınız.', value: 'kamera', emoji: '1135761187871666176'},
-            { label: 'Level Sıralaması', description: 'Sunucudaki level sıralamasını görmek için tıklayınız.', value: 'level', emoji: '1135903635931418644'},
+            { label: 'Mesaj Sıralaması', description: 'Sunucudaki mesaj sıralamasını görmek için tıklayınız.', value: 'mesaj', emoji: '1116077475928215663' },
+            { label: 'Ses Sıralaması',   description: 'Sunucudaki ses sıralamasını görmek için tıklayınız.', value: 'ses', emoji: '1114844292935077960' },
+            { label: 'Yayın Sıralaması', description: 'Sunucudaki yayın sıralamasını görmek için tıklayınız.', value: 'yayin', emoji: '1114844304540700683'},
+            { label: 'Kamera Sıralaması', description:'Sunucudaki kamera sıralamasını görmek için tıklayınız.', value: 'kamera', emoji: '1114844300694523916'},
+            { label: 'Level Sıralaması', description: 'Sunucudaki level sıralamasını görmek için tıklayınız.', value: 'level', emoji: '1088124338961661952'},
             { label: 'Kayıt Sıralaması', description: 'Sunucudaki kayıt sıralamasını görmek için tıklayınız.', value: 'register', emoji: '1089511613352120320' },
-            { label: 'Davet Sıralaması', description: 'Sunucudaki davet sıralamasını görmek için tıklayınız.', value: 'davet', emoji: '1089505823346143303'},
+            { label: 'Davet Sıralaması', description: 'Sunucudaki davet sıralamasını görmek için tıklayınız.', value: 'davet', emoji: '1141139011541422191'},
           ]),
       );
 
