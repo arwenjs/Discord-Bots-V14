@@ -119,11 +119,11 @@ if (!message.member.permissions.has(PermissionsBitField.Flags.Administrator) && 
           .setCustomId('ertucum')
           .setPlaceholder(`${member.user.tag.toString()} kullanıcısının detaylarını görüntüle!`)
           .addOptions([
-            { label: 'Ses İstatistik Detay', description: 'Detaylı Ses istatistiğininin bilgilerini görüntülemektedir.', value: 'ses', emoji: '1089491399067566141' },
-            { label: 'Mesaj İstatistik Detay', description: 'Detaylı Mesaj istatistiğinin bilgilerini görüntülemektedir.', value: 'mesaj', emoji: '1089491370982522950' },
-            { label: 'Davet Detay', description: 'Detaylı Davet istatistiğini görüntülemektedir.', value: 'davet', emoji: '1089505823346143303' },
-            { label: 'Yayın Detay', description: 'Detaylı Yayın istatistiğini görüntülemektedir.', value: 'yayin', emoji: '1135761093701144577' },
-            { label: 'Kamera Detay', description: 'Detaylı Kamera istatistiğini görüntülemektedir.', value: 'kamera', emoji: '1135761187871666176' },
+            { label: 'Ses İstatistik Detay', description: 'Detaylı Ses istatistiğininin bilgilerini görüntülemektedir.', value: 'ses', emoji: '1114844292935077960' },
+            { label: 'Mesaj İstatistik Detay', description: 'Detaylı Mesaj istatistiğinin bilgilerini görüntülemektedir.', value: 'mesaj', emoji: '1095407651661291600' },
+            { label: 'Davet Detay', description: 'Detaylı Davet istatistiğini görüntülemektedir.', value: 'davet', emoji: '1093223528171589713' },
+            { label: 'Yayın Detay', description: 'Detaylı Yayın istatistiğini görüntülemektedir.', value: 'yayin', emoji: '1114844304540700683' },
+            { label: 'Kamera Detay', description: 'Detaylı Kamera istatistiğini görüntülemektedir.', value: 'kamera', emoji: '1114844300694523916' },
             { label: `Menüyü Kapat`, value: 'iptal', emoji: '1102692516626710708' },
           ]),
       );
