@@ -4,6 +4,8 @@ Ertu - Crane gelişmiş Pm2 V14 Botlarıdır
 
 Emeği geçen **CRANE, vante, piku, beş, lulu, approval, luhux, relivent, arwen ve cartel**'e tesekkürler <3
 
+**NonamePotcu** adlı orospuya selam olsun.
+
 Projenin ücretli satılması veya başkası tarafından başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olursa lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
 ### Sahip Komutları
